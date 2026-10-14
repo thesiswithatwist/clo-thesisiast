@@ -73,3 +73,10 @@ Check git log and quality_reports/plans/ for current state.
 ---
 **Context compaction (auto) at 23:58**
 Check git log and quality_reports/plans/ for current state.
+
+
+---
+**2026-10-14 — Unrelated session: exam grading (LV 0529, open question only)**
+- Task: grade Hofstede open question (10 P) of uploaded exams, variants A/B (identical question), against textbook excerpt (S. 273-275).
+- Rules set by user: generous grading (>=0.5 P for half-right dimension names); a) 1 P per dimension; b) 2 dims x (high vs. low pole); only first two dims count; Hall concepts (High/Low Context, monochron/polychron) not credited.
+- Progress: 14 exams graded in chat (anonymous, no files written to repo); rules kept in session scratchpad.
