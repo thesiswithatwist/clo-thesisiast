@@ -73,3 +73,8 @@ Check git log and quality_reports/plans/ for current state.
 ---
 **Context compaction (auto) at 23:58**
 Check git log and quality_reports/plans/ for current state.
+
+---
+**2026-11-22 — Side task (not related to this repo)**
+- Digitized handwritten notes for a children's book presentation ("Zombert – Fußballspielen verboten", Kai Pannen), checked against book photos, produced Word docs and printable A6 flashcard PDFs (full-sentence and keyword versions).
+- All outputs live in the session scratchpad only; no repo files changed, nothing committed.
